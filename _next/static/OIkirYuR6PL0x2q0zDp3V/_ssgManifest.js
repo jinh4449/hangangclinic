@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Farea\u002F[slug]","\u002Fcare\u002F[symptom]","\u002Fcolumn\u002F[slug]","\u002Fcompare\u002F[slug]","\u002Fpart\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
