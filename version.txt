@@ -1,3 +1,6 @@
-commit  b1f6fda
-built   2026-09-02 03:12 UTC
-note    사이트 주소를 gimpohangang.com 으로 바꾼다
+commit  b109574
+built   2026-09-02 04:28 UTC
+note    검색엔진 소유확인 코드 자리를 만든다
+
+Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
