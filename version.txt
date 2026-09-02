@@ -1,6 +1,6 @@
-commit  a2a84ea
-built   2026-09-02 13:41 UTC
-note    헤더에 로고 마크를 세우고 로고 원본을 저장소에 보관한다
+commit  3ed6fa3
+built   2026-09-02 13:50 UTC
+note    헤더 로고 마크의 획을 굵게 한다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
