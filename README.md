@@ -3,20 +3,25 @@
 이 저장소에는 **이미 만들어진 HTML** 이 들어 있습니다. 빌드할 것이 없고
 파일을 그대로 올리기만 하면 됩니다.
 
-## Cloudflare Pages 설정
+## 어디에 올라가 있나
 
-Workers & Pages → Create → Pages → Connect to Git → 이 저장소 선택.
-그다음 아래대로 두면 됩니다.
+Cloudflare 의 `hangangclinic` 프로젝트가 이 저장소의 `main` 을 보고 있습니다.
+push 하면 알아서 올라갑니다.
+
+| 주소 | |
+|---|---|
+| https://gimpohangang.com | 정본 |
+| https://www.gimpohangang.com | 위로 넘어감 |
+| https://hangangclinic.jinh4449.workers.dev | Cloudflare 가 준 주소 |
+
+설정은 이렇게 되어 있습니다. 빌드 명령을 비우는 것이 중요합니다 —
+여기 있는 것은 이미 만들어진 결과물이라, 빌드를 걸면 실패합니다.
 
 | 항목 | 값 |
 |---|---|
 | Production branch | `main` |
-| Framework preset | **None** |
-| Build command | **(비움)** |
+| Build command | (비움) |
 | Build output directory | `/` |
-
-빌드 명령을 비워 두는 것이 중요합니다. 여기 있는 것은 결과물이라
-다시 만들 필요가 없고, 빌드를 걸면 실패합니다.
 
 캐시 규칙은 `_headers` 에 있습니다. 이 파일은 원본 저장소의 `public/_headers`
 에서 만들어지므로 **여기서 고치면 다음 배포에 지워집니다.**
