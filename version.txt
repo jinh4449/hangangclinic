@@ -1,6 +1,6 @@
-commit  ef28251
-built   2026-09-02 11:50 UTC
-note    링크 미리보기 그림을 올린다
+commit  f5e9e5b
+built   2026-09-02 12:16 UTC
+note    구글 소유확인 코드를 넣는다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
