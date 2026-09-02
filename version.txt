@@ -1,6 +1,6 @@
-commit  dfe18f4
-built   2026-09-02 04:30 UTC
-note    네이버 소유확인 코드를 넣는다
+commit  ccbdb67
+built   2026-09-02 04:39 UTC
+note    robots.txt 에 네이버 검색로봇을 이름으로 허용한다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
