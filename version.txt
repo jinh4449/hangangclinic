@@ -1,6 +1,6 @@
-commit  b109574
-built   2026-09-02 04:28 UTC
-note    검색엔진 소유확인 코드 자리를 만든다
+commit  dfe18f4
+built   2026-09-02 04:30 UTC
+note    네이버 소유확인 코드를 넣는다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
