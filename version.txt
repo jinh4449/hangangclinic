@@ -1,6 +1,6 @@
-commit  10c20dc
-built   2026-09-02 04:59 UTC
-note    검색어에 맞춰 페이지 제목과 설명문을 다시 쓴다
+commit  ef28251
+built   2026-09-02 11:50 UTC
+note    링크 미리보기 그림을 올린다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
