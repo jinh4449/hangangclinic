@@ -1,6 +1,6 @@
-commit  f665177
-built   2026-09-02 13:25 UTC
-note    브라우저 아이콘을 병원 로고로 바꾼다
+commit  bece8f7
+built   2026-09-02 13:33 UTC
+note    아이콘을 로고 원본 벡터로 바꾼다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
