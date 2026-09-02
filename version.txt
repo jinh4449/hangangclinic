@@ -1,6 +1,6 @@
-commit  f5e9e5b
-built   2026-09-02 12:16 UTC
-note    구글 소유확인 코드를 넣는다
+commit  d4983bb
+built   2026-09-02 12:32 UTC
+note    동네 페이지 중복을 줄이고 부위별 자주 묻는 질문을 넣는다
 
 Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>
 Claude-Session: https://claude.ai/code/session_01KZNKd9neD98BzoHgtNp75m
