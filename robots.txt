@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://chipper-cascaron-1f6010.netlify.app/sitemap.xml
+Sitemap: https://gimpohangang.com/sitemap.xml
